@@ -6,4 +6,4 @@ SoftUni Certificates:
     - Introduc􀀉on to Scrum
     - Scrum Events
     - Measuring and Leadership
-    
+    - https://softuni.bg/certificates/details/134264/38e6b22f (Credential URL)
