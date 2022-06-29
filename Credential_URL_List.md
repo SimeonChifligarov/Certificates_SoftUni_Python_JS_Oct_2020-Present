@@ -28,4 +28,9 @@ SoftUni Certificates - Python &amp; JavaScript
 - Outside the (main) Inner Software Engineering Program @SoftUni
 
 ### Agile Certificates
+- Agile Essentials with Scrum - April 2022
 - https://softuni.bg/certificates/details/134264/38e6b22f
+
+### Mathematics Certificates
+- Fundamentals in Mathematics - May 2022
+- https://softuni.bg/certificates/details/135857/deb4aeb5
