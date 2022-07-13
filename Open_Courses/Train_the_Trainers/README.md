@@ -6,4 +6,4 @@ SoftUni Certificate:
     - Conducting technical trainings
     - (Practical) Presentation delivery (x3)
 
-    - https://softuni.bg/certificates/details/137214/49ec8cf1(Credential URL)
+    - https://softuni.bg/certificates/details/137214/49ec8cf1 (Credential URL)
