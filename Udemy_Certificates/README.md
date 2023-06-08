@@ -1,25 +1,25 @@
-### Udemy Certificates
+# Udemy Certificates
 
 - included Certificates (as .pdf), and URL links
 
 -------------------------------------------------------
-# Python
+### Python
 - Python, Clean Code
 
 -------------------------------------------------------
-# Spark
+### Spark
 
 -------------------------------------------------------
-# SQL
+### SQL
 
 -------------------------------------------------------
-# Data Science & ML
+### Data Science & ML
 
 -------------------------------------------------------
-# Airflow [5/5]
+### Airflow [5/5]
 
 -------------------------------------------------------
-# Complementary Tech Stack [6/6]
+### Complementary Tech Stack [6/6]
 - Grafana
 - ELK (Elasticsearch, Logstash, and Kibana)
 - Prometheus
@@ -27,15 +27,15 @@
 - Ansible [x2]
 
 -------------------------------------------------------
-# Kubernetes [6/6]
+### Kubernetes [6/6]
 - Docker, Kubernetes, OpenShift, Helm
 
 -------------------------------------------------------
-# Tech Stack Extras
+### Tech Stack Extras
 - Linux, Git
 
 -------------------------------------------------------
-# Soft Skills
+### Soft Skills
 
 -------------------------------------------------------
 
