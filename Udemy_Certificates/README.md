@@ -4,7 +4,7 @@
 
 -------------------------------------------------------
 ### Python
-- Python, Clean Code
+- Python, Unit testing, Clean Code, SOLID principles
 
 -------------------------------------------------------
 ### Spark
