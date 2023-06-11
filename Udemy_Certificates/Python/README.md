@@ -15,5 +15,3 @@ url: https://www.udemy.com/certificate/UC-59891f66-87fb-40ff-ba03-1a3c7c310ba2/
 
 -  Clean Code, as taught by Academind by Maximilian Schwarzmüller, Maximilian Schwarzmüller, {Date: 04/19/2023, Length: 6.5 total hours}
 url: https://www.udemy.com/certificate/UC-302b0ee0-ac99-4cb1-ad9d-ccdeb13bf472/
-
-- 
