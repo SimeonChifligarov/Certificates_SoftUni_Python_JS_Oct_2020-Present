@@ -22,5 +22,8 @@ url: https://www.udemy.com/certificate/UC-4fd53906-5270-445a-ac38-7bed4b16eb26/
 - Critical Thinking Strategies For Better Decisions, as taught by John Rampton, {Date: 03/07/2023, Length: 1 total hour} 
 url: https://www.udemy.com/certificate/UC-2fbeefcd-e273-4d59-af5f-cb8910b562cc/
 
+-  Master Cognitive Biases and Improve Your Critical Thinking, as taught by Kevin deLaplante , {Date: 10/12/2023, Length: 2.5 total hour} 
+url: https://www.udemy.com/certificate/UC-d36925c2-39b0-4ac7-93e8-8dd4b80d9283/
+
 - How to Become a Senior Developer - Beyond coding skills, as taught by Oren Abbou, {Date: 04/08/2023, Length: 2 total hours}
 url: https://www.udemy.com/certificate/UC-d10fee50-e3f0-4128-bb11-17375e92a68e/
