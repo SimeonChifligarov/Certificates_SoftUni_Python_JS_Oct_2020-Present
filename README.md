@@ -2,9 +2,12 @@
 
 ## Professional Training & Continuous Learning Archive
 
-This repository contains my completed certificates from internationally recognized training platforms, documenting continuous growth in **Software Development**, **Data Engineering**, **Cloud Technologies**, and **Computer Science fundamentals**.
+This repository contains my completed certificates from internationally recognized training platforms, documenting
+continuous growth in **Software Development**, **Data Engineering**, **Cloud Technologies**, and **Computer Science
+fundamentals**.
 
-It serves as a structured portfolio of technical education completed alongside hands-on projects and real-world practice.
+It serves as a structured portfolio of technical education completed alongside hands-on projects and real-world
+practice.
 
 ---
 
@@ -20,38 +23,38 @@ It serves as a structured portfolio of technical education completed alongside h
 
 ### Software Engineering
 
-- Python Programming  
-- JavaScript Development  
-- Object-Oriented Programming  
-- Algorithms & Problem Solving  
-- Data Structures  
-- Software Architecture Fundamentals  
-- Testing & Debugging  
+- Python Programming
+- JavaScript Development
+- Object-Oriented Programming
+- Algorithms & Problem Solving
+- Data Structures
+- Software Architecture Fundamentals
+- Testing & Debugging
 - Git & GitHub Workflows
 
 ### Data Engineering
 
-- SQL & Relational Databases  
-- ETL / Data Pipelines  
-- Apache Spark  
-- Databricks  
-- Apache Airflow  
+- SQL & Relational Databases
+- ETL / Data Pipelines
+- Apache Spark
+- Databricks
+- Apache Airflow
 - Cloud Data Platforms
 
 ### Cloud / DevOps
 
-- AWS  
-- Docker  
-- Kubernetes  
-- CI/CD Pipelines  
-- GitHub Actions  
+- AWS
+- Docker
+- Kubernetes
+- CI/CD Pipelines
+- GitHub Actions
 - Linux / Shell Environments
 
 ### Data / AI
 
-- Data Analysis  
-- Statistics  
-- Machine Learning Foundations  
+- Data Analysis
+- Statistics
+- Machine Learning Foundations
 - Python for Data Science
 
 ---
@@ -62,21 +65,21 @@ It serves as a structured portfolio of technical education completed alongside h
 
 Academic-style training with strong foundations in:
 
-- Python Development  
-- JavaScript Development  
-- Databases  
-- Algorithms  
+- Python Development
+- JavaScript Development
+- Databases
+- Algorithms
 - Software Engineering principles
 
 ### Udemy Certificates
 
 Practical industry-focused training in:
 
-- Python Mastery  
-- Git / GitHub  
-- CI/CD Automation  
-- Cloud Data Engineering  
-- DevOps Tools  
+- Python Mastery
+- Git / GitHub
+- CI/CD Automation
+- Cloud Data Engineering
+- DevOps Tools
 - Modern Engineering Workflows
 
 ---
@@ -85,9 +88,9 @@ Practical industry-focused training in:
 
 I believe strong engineers combine:
 
-- **Theory** through structured education  
-- **Practice** through projects  
-- **Consistency** through lifelong learning  
+- **Theory** through structured education
+- **Practice** through projects
+- **Consistency** through lifelong learning
 - **Adaptability** through modern tools
 
 This repository demonstrates long-term commitment to improving technical depth year after year.
@@ -96,18 +99,19 @@ This repository demonstrates long-term commitment to improving technical depth y
 
 ## Current Professional Focus
 
-- Software Development  
-- Python Engineering  
-- Data Engineering  
-- Cloud Platforms  
-- Backend Systems  
+- Software Development
+- Python Engineering
+- Data Engineering
+- Cloud Platforms
+- Backend Systems
 - Automation
 
 ---
 
 ## About Me
 
-I continuously build skills through both formal courses and real-world implementation, with focus on becoming stronger as a **Software Developer** and **Data Engineer**.
+I continuously build skills through both formal courses and real-world implementation, with focus on becoming stronger
+as a **Software Developer** and **Data Engineer**.
 
 ---
 
@@ -119,3 +123,43 @@ I continuously build skills through both formal courses and real-world implement
 ---
 
 **Learning never stops. Building never stops.**
+
+
+---
+
+## Repository Structure
+
+```text
+Certificates_SoftUni_Python_JS_Oct_2020-Present/
+│
+├── README.md
+├── LICENSE
+│
+├── Open_Courses/
+│   ├── Open online courses
+│   ├── University / public learning programs
+│   └── Additional structured learning resources
+│
+├── SoftUni_Python_JS_Oct_2020-Present/
+│   ├── Python Basics
+│   ├── Python Fundamentals
+│   ├── Python Advanced
+│   ├── Python OOP
+│   ├── Python Web
+│   ├── JavaScript Basics
+│   ├── JavaScript Advanced
+│   ├── JS Applications
+│   ├── Databases
+│   └── Software Engineering modules
+│
+├── Udemy_Certificates/
+│   ├── 100 Days of Code: The Complete Python Pro Bootcamp
+│   ├── Earlier professional certificates
+│   └── Python / developer upskilling courses
+│
+└── Udemy_Certificates_2025_2026/
+    ├── Git & GitHub
+    ├── GitHub Actions / CI-CD
+    ├── Python Fundamentals / Deep Dive
+    ├── AWS Data Engineering
+    └── Current professional upskilling
