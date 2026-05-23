@@ -16,6 +16,10 @@ This directory contains verified Udemy certificates completed during **2025–20
   *Instructor: Dr. Fred Baptiste*  
   Advanced Python topics including functional programming, deeper language internals, clean coding patterns, and professional-grade Python usage.
 
+- **Python 3: Deep Dive (Part 2 - Iterators, Generators)**  
+  *Instructor: Dr. Fred Baptiste*  
+  Advanced Python topics focused on iterators, generators, lazy evaluation, iteration protocols, generator expressions, and efficient data processing patterns.
+
 - **The 25-Day Python Challenge**  
   *Instructor: Federico Azzurro*  
   Practical Python exercises designed to strengthen problem-solving, coding speed, and real-world implementation skills.
@@ -34,6 +38,14 @@ This directory contains verified Udemy certificates completed during **2025–20
 
 - **GitHub Actions: The Complete Guide from Beginner to Expert**  
   Hands-on training in CI/CD automation using GitHub Actions, workflows, testing pipelines, deployment automation, and DevOps practices.
+
+---
+
+### AI & Generative AI
+
+- **Generative AI for Beginners**  
+  *Instructor: Aakriti E-Learning Academy*  
+  Introductory training in generative AI concepts, practical applications, prompt engineering fundamentals, and the use of AI tools for modern productivity and software workflows.
 
 ---
 
