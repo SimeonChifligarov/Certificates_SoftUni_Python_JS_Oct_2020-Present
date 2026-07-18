@@ -1,6 +1,6 @@
 # Udemy Certificates (2025–2026)
 
-This directory contains verified Udemy certificates completed during **2025–2026**, focused on practical skills in **Software Development**, **Version Control**, **Automation**, **Python Engineering**, and **Cloud Data Engineering**.
+This directory contains verified Udemy certificates completed during **2025–2026**, focused on practical skills in **Software Development**, **Version Control**, **Automation**, **Python Engineering**, **AI Engineering**, and **Cloud Data Engineering**.
 
 ---
 
@@ -23,6 +23,10 @@ This directory contains verified Udemy certificates completed during **2025–20
 - **The 25-Day Python Challenge**  
   *Instructor: Federico Azzurro*  
   Practical Python exercises designed to strengthen problem-solving, coding speed, and real-world implementation skills.
+
+- **Python Packaging**  
+  *Instructor: Dr. Justin Furuness*  
+  Practical training in structuring, building, versioning, and distributing reusable Python packages using modern Python packaging tools and standards.
 
 ---
 
@@ -47,6 +51,10 @@ This directory contains verified Udemy certificates completed during **2025–20
   *Instructor: Aakriti E-Learning Academy*  
   Introductory training in generative AI concepts, practical applications, prompt engineering fundamentals, and the use of AI tools for modern productivity and software workflows.
 
+- **AI Engineer Core Track**  
+  *Instructors: Ligency, Ed Donner*  
+  Core training in LLM engineering, generative AI, retrieval-augmented generation, fine-tuning, and building practical AI agent applications.
+
 ---
 
 ### Cloud & Data Engineering
@@ -54,17 +62,24 @@ This directory contains verified Udemy certificates completed during **2025–20
 - **AWS Certified Data Engineer Associate 2026 – Hands On!**  
   Practical preparation covering AWS data services, pipelines, storage, analytics architecture, and modern cloud data engineering concepts.
 
+- **Data Analysis with Polars**  
+  *Instructor: Liam Brannigan*  
+  Practical data analysis with the Polars DataFrame library, covering expressions, transformations, aggregations, and efficient high-performance data processing.
+
 ---
 
 ## Technical Focus Demonstrated
 
 These certifications support practical capabilities in:
 
-- Python software engineering  
-- Advanced Python development  
-- Git & GitHub collaboration workflows  
-- CI/CD automation with GitHub Actions  
-- Cloud data engineering on AWS  
+- Python software engineering
+- Advanced Python development
+- Python packaging and distribution
+- High-performance data analysis with Polars
+- AI engineering foundations
+- Git & GitHub collaboration workflows
+- CI/CD automation with GitHub Actions
+- Cloud data engineering on AWS
 - Problem solving through hands-on coding challenges
 
 ---
@@ -73,6 +88,6 @@ These certifications support practical capabilities in:
 
 This collection reflects continuous investment in modern engineering skills with emphasis on:
 
-**Python • Git • Automation • CI/CD • AWS • Data Engineering**
+**Python • Packaging • Polars • AI Engineering • Git • Automation • CI/CD • AWS • Data Engineering**
 
 ---
